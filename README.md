@@ -2,7 +2,7 @@
 
 > A star ⭐ from you means a lot to us!
 
-<p align="center"><a href="https://www.github.com/StarkBotsIndustries/ChannelBot"><img src="https://telegra.ph/file/98cda0fd7ebdc4002f07e.jpg" width="2000"></a></p>
+<p align="center"><a href="https://www.github.com/PRO_SUPPORTIndustries/ChannelBot"><img src="https://telegra.ph/file/98cda0fd7ebdc4002f07e.jpg" width="2000"></a></p>
 
 Telegram bot to automate and manage channels.
 
@@ -12,7 +12,7 @@ Telegram bot to automate and manage channels.
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/StarkBotsIndustries/ChannelBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PRO_SUPPORTIndustries/ChannelBot)
 
 1. Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN` (and `MUST_JOIN`).
 2. Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes).
@@ -23,7 +23,7 @@ Telegram bot to automate and manage channels.
 
 1. Clone the repo
    ```markdown
-   git clone https://github.com/StarkBotsIndustries/ChannelBot
+   git clone https://github.com/PRO_SUPPORTIndustries/ChannelBot
    ```
    
 2. Get a MONGO_URL. If you don't know how, deploy using Heroku Button only or delete database things as it's not a compulsion.
@@ -71,14 +71,14 @@ Telegram bot to automate and manage channels.
 
 ## Support
 
-Channel :- [@StarkBots](https://t.me/StarkBots)
+Channel :- [@PRO_SUPPORT](https://t.me/PRO_SUPPORT)
 
-Group Chat :- [@StarkBotsChat](https://t.me/StarkBotsChat)
+Group Chat :- [@TG_SUPP0RT](https://t.me/TG_SUPP0RT)
 
 ## :)
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/StarkBotsIndustries)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/PRO_SUPPORTIndustries)
 
-[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://github.com/StarkBotsIndustries)
+[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://github.com/PRO_SUPPORTIndustries)

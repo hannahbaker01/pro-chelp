@@ -17,14 +17,14 @@ ENVIRONMENT = os.environ.get('ENVIRONMENT', False)
 LOGGER = loguru.logger
 if ENVIRONMENT:
     try:
-        API_ID = int(os.environ.get('API_ID', 0))
+        API_ID = int(os.environ.get('API_ID', 23416992))
     except ValueError:
         raise Exception("Your API_ID is not a valid integer.")
-    API_HASH = os.environ.get('API_HASH', None)
-    OWNER_ID = os.environ.get('OWNER_ID', 6258709129)
-    BOT_TOKEN = os.environ.get('BOT_TOKEN', None)
-    MONGO_URL = os.environ.get('MONGO_URL', None)
-    MUST_JOIN = os.environ.get('MUST_JOIN', None)
+    API_HASH = os.environ.get('API_HASH', "bebe7b8b7bc74aeaa08f658e8aa799fe")
+    OWNER_ID = os.environ.get('OWNER_ID', 7030346964)
+    BOT_TOKEN = os.environ.get('BOT_TOKEN', "")
+    MONGO_URL = os.environ.get('MONGO_URL', "mongodb+srv://botss:botss@cluster0.txf7e.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+    MUST_JOIN = os.environ.get('MUST_JOIN', PRO_SUPPORT)
     if MUST_JOIN.startswith("@"):
         MUST_JOIN = MUST_JOIN.replace("@", "")
 else:
